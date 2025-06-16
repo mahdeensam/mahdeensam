@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="1000" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <h1 align="center">Hi, I'm Mahdeen Ahmed Khan Sameer!</h1>
-<h3 align="center">As an enthusiastic Colby and Oxford student passionate about making the tech world better and more awesome, I am committed to leveraging my knowledge and skills to drive positive change and innovation.</h3>
+<h3 align="center">As an enthusiastic Colby Alum and Harvard student passionate about making the tech world better and more awesome, I am committed to leveraging my knowledge and skills to drive positive change and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/bbee52004eedb5097c772ab3db479008.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensam&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensam" /> </p>
