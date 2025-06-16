@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **my passions!**
 
-- 📫 How to reach me **makhan25@colby.edu**
+- 📫 How to reach me **sameerkhan@gse.harvard.edu**
 
 - ⚡ Fun fact **Why do I (a programmer) prefer dark mode? Because light attracts bugs!**
 
