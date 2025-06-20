@@ -1,29 +1,65 @@
-<img align="right" alt="Coding" width="1000" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="400"/>
 
-<h1 align="center">Hi, I'm Mahdeen Ahmed Khan Sameer!</h1>
-<h3 align="center">As an enthusiastic Colby Alum and Harvard student passionate about making the tech world better and more awesome, I am committed to leveraging my knowledge and skills to drive positive change and innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/bbee52004eedb5097c772ab3db479008.gif">
+# Mahdeen Ahmed Khan Sameer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdeensam&label=Profile%20views&color=0e75b6&style=flat" alt="mahdeensam" /> </p>
+**Master's Candidate at Harvard University (HGSE + HBS) | Colby College Alum**
 
-- 🌱 I’m currently learning **Financial Analytics**
+Credit & Investment Analyst at Androscoggin Bank  
 
-- 👨‍💻 All of my projects are available at [Github, but I will keep posting!](Github, but I will keep posting!)
+Focused on FinTech, Private Equity, Educational Technology, and Applied Data Science
 
-- 📝 I regularly write articles on [instagram](instagram)
 
-- 💬 Ask me about **my passions!**
 
-- 📫 How to reach me **sameerkhan@gse.harvard.edu**
+## About Me
 
-- ⚡ Fun fact **Why do I (a programmer) prefer dark mode? Because light attracts bugs!**
+I'm a finance and data professional with a deep interest in how thoughtful design and technology can improve access and opportunity. I began my career in banking, where I worked on evaluating over $45 million in loans and developed models to better understand risk and support small and mid-sized businesses. Along the way, I became increasingly curious about how financial tools could be made more useful and inclusive. That led to cofounding FinanAI, a project focused on using AI to support individual investors, which was later acquired. Now, as a graduate student at Harvard’s LDIT program, cross-registered at HBS and MIT Sloan, I’m learning how to build more human-centered systems at the intersection of data, finance, and education.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahdeen-khan-892739232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdeen-khan-892739232" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/makhan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="makhan25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/makhan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="makhan25" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img 
+## Current Focus
+
+- Financial analytics and credit risk modeling  
+- Intelligent systems for equity in finance and education  
+- Private equity and venture innovation strategy  
+- Technical skills integration across Python, SQL, JS, and ML frameworks  
+
+---
+
+## Contact
+
+- Email: [sameerkhan@gse.harvard.edu](mailto:sameerkhan@gse.harvard.edu)  
+- LinkedIn: [linkedin.com/in/mahdeen-khan-892739232](https://linkedin.com/in/mahdeen-khan-892739232)  
+- Website: [sameerlearn.com](https://sameerlearn.com)  
+- GitHub: [github.com/mahdeensam](https://github.com/mahdeensam)
+
+---
+
+## Technical Skills
+
+**Languages**  
+Python, JavaScript, TypeScript, Java, SQL, HTML5, CSS3  
+
+**Frameworks & Libraries**  
+React, Redux, Node.js, Express.js, TensorFlow, Pandas, OpenCV  
+
+**Tools & Platforms**  
+MongoDB, MySQL, Firebase, Git, Postman, Photoshop, Linux, Docker  
+
+**Financial & Data Modeling**  
+DSCR & LTV modeling, DCF valuation, KPI dashboards, scenario analysis, segmentation models
+
+---
+
+## Selected Projects
+
+**FinanAI**  
+Built and sold a fintech platform offering AI-based investment insights, automated portfolio management, and educational simulations.  
+
+**Coral Reef Segmentation with Deep Learning**  
+Classified and segmented aerial reef imagery using U-Net, SegFormer, and OpenCV to support environmental monitoring efforts.  
+
+**Public Health + Policy Forecasting**  
+Developed financial tools and ML-based models for state-level drug policy analysis in collaboration with the Maine Drug Policy Lab.
+
+---
+
