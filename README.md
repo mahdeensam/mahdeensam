@@ -4,7 +4,9 @@
 
 **Master's Candidate at Harvard University (HGSE + HBS) | Colby College Alum**
 
-Credit & Investment Analyst at Androscoggin Bank  
+Quantatitive Researcher - READS Lab, Harvard University 
+
+Former Credit & Investment Analyst at Androscoggin Bank  
 
 Focused on FinTech, Private Equity, Educational Technology, and Applied Data Science
 
