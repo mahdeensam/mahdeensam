@@ -2,7 +2,9 @@
 
 # Mahdeen Ahmed Khan Sameer
 
-**Master's Candidate at Harvard University (HGSE + HBS) | Colby College Alum**
+**Harvard University Alum (HGSE + HBS) | Colby College Alum**
+
+Former Investment Bank Associate at Nova Capital
 
 Quantatitive Researcher - READS Lab, Harvard University 
 
@@ -14,7 +16,7 @@ Focused on FinTech, Private Equity, Educational Technology, and Applied Data Sci
 
 ## About Me
 
-I'm a finance and data professional with a deep interest in how thoughtful design and technology can improve access and opportunity. I began my career in banking, where I worked on evaluating over $45 million in loans and developed models to better understand risk and support small and mid-sized businesses. Along the way, I became increasingly curious about how financial tools could be made more useful and inclusive. That led to cofounding LuminoHQ, a project focused on using AI to support individual investors, which was later acquired. Now, as a graduate student at Harvard’s LDIT program, cross-registered at HBS and MIT Sloan, I’m learning how to build more human-centered systems at the intersection of data, finance, and education.
+I'm a finance and data professional with a deep interest in how thoughtful design and technology can improve access and opportunity. I began my career in banking, where I worked on evaluating over $45 million in loans and developed models to better understand risk and support small and mid-sized businesses. Along the way, I became increasingly curious about how financial tools could be made more useful and inclusive. That led to cofounding LuminoHQ, a project focused on using AI to support individual investors, which was later acquired. Now, as a Harvard’s LDIT program Alum, cross-registered at HBS and MIT Sloan, I’m learning how to build more human-centered systems at the intersection of data, finance, and education. Now, I'm paving into Hedge-Fund style Investment Management Company.
 
 ---
 
